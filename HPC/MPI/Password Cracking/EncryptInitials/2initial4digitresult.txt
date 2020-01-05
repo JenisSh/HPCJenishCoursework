@@ -1,0 +1,7 @@
+3380000 solutions explored
+
+Time elapsed was 25588243198610ns or 25588.243198610s
+
+Time elapsed was 25588243707982ns or 25588.243707982s
+
+Time elapsed was 25588243478634ns or 25588.243478634s

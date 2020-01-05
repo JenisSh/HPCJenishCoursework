@@ -1,0 +1,2 @@
+878800 solution explored  
+Time elapsed 6589329762550ns or 6589.329762550s
